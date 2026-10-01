@@ -70,6 +70,8 @@ async function route(ctx, i) {
         return require('../ui/wizard').handle(ctx, i, parts);
       case 'pn':
         return require('../ui/panels').handle(ctx, i, parts);
+      case 'hp':
+        return require('../ui/help').handle(ctx, i, parts);
       default:
         throw new ValidationError('This control is no longer active.');
     }
