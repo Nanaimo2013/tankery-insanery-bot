@@ -1,0 +1,1487 @@
+{
+  "_comment": "Japan Senshadou League school loadouts (Tankery Insanery). Source: Japan Senshadou League document. Vehicle names are MTC display names (see tanks.txt).",
+  "schools": [
+    {
+      "name": "Koala Forest Academy",
+      "short_name": "Koala Forest",
+      "country": "Australia",
+      "camo": [
+        "Gray"
+      ],
+      "decals": [
+        "83357840367739"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Churchill VII",
+          "quantity": 1,
+          "notes": "Document entry: Tank, Infantry, Mark IV Churchill"
+        },
+        {
+          "name": "M36 Jackson",
+          "quantity": 1,
+          "notes": "Document entry: 90mm GMC Jackson"
+        },
+        {
+          "name": "Cromwell V",
+          "quantity": 2,
+          "notes": "Document entry: Tank, Cruiser, Mk VIII, Cromwell (A27M)"
+        },
+        {
+          "name": "Comet Mk.1",
+          "quantity": 4,
+          "notes": "Document entry: Tank, Cruiser, Comet I (A34)"
+        },
+        {
+          "name": "M8 Greyhound",
+          "quantity": 2,
+          "notes": "Document entry: M8 Light Armored Car (LAC)"
+        },
+        {
+          "name": "M4A3E2 (76) Jumbo",
+          "quantity": 1,
+          "notes": "Document entry: M4A3E2, 76 W VVSS Jumbo Sherman"
+        },
+        {
+          "name": "M4A2E8 Sherman",
+          "quantity": 1,
+          "notes": "Document entry: M4A3 76 W HVSS (M4A3E8) Sherman"
+        }
+      ],
+      "equipment": [
+        "Binoculars",
+        "Repair Torch",
+        "Camo Net",
+        "Small Camo Net"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Gregor High School",
+      "short_name": "Gregor",
+      "country": null,
+      "camo": [
+        "US Navy Black"
+      ],
+      "decals": [
+        "110573982971369"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Tiger I",
+          "quantity": 1,
+          "notes": "Document entry: Tiger I VI \"HI\" (Sd.Kfz. 181.)"
+        },
+        {
+          "name": "KV-220",
+          "quantity": 1,
+          "notes": "Document entry: KV-220/T-220. (Object 220)"
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 1,
+          "notes": "Document entry: T-34 (85)"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "Sturmpanzerwagen A7V",
+          "quantity": 1,
+          "notes": "Document entry: Sturmpanzerwagen A7V"
+        },
+        {
+          "name": "Mark IV",
+          "quantity": 1,
+          "notes": "Document entry: Mark IV"
+        },
+        {
+          "name": "Pz.III M",
+          "quantity": 3,
+          "notes": "Document entry: Panzer III \"M\" (Sd.Kfz. 141.)"
+        },
+        {
+          "name": "T-34",
+          "quantity": 3,
+          "notes": "Document entry: T-34 (76)"
+        },
+        {
+          "name": "JgPz 38t",
+          "quantity": 3,
+          "notes": "Document entry: Jagdpanzer 38t. (Sd.Kfz. 138/2.)"
+        }
+      ],
+      "equipment": [
+        "Engineering Tool",
+        "Binoculars",
+        "Repair Torch",
+        "Camo Net",
+        "Small Camo Net"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Viking Fisheries High School",
+      "short_name": "Viking",
+      "country": null,
+      "camo": [
+        "Snow Pixel",
+        "Russian Bicolour 2",
+        "Denmark Camo"
+      ],
+      "decals": [
+        "87047800162744"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "M4A2E8 Sherman",
+          "quantity": 1,
+          "notes": "Document entry: M4A3 76 W HVSS (M4A3E8) Sherman"
+        },
+        {
+          "name": "Pz.III M",
+          "quantity": 2,
+          "notes": "Document entry: Panzer III \"M\" (Sd.Kfz. 141.)"
+        },
+        {
+          "name": "T-34E",
+          "quantity": 2,
+          "notes": "Document entry: T-34E, (76)"
+        },
+        {
+          "name": "M8 Greyhound",
+          "quantity": 1,
+          "notes": "Document entry: M8 Light Armored Car (LAC)"
+        },
+        {
+          "name": "M26 Pershing",
+          "quantity": 1,
+          "notes": "Document entry: 90mm Gun Full Tracked Heavy Tank, M26 Pershing"
+        },
+        {
+          "name": "JgPz 38t",
+          "quantity": 2,
+          "notes": "Document entry: Jagdpanzer 38t. (Sd.Kfz. 138/2.)"
+        },
+        {
+          "name": "Sherman Firefly",
+          "quantity": 1,
+          "notes": "Document entry: Sherman VC Firefly w/ Trzyniec armour",
+          "special_requirements": "Fitted with Trzyniec armour"
+        }
+      ],
+      "equipment": [
+        "Engineering Tool",
+        "Binoculars",
+        "Repair Torch",
+        "Camo Net",
+        "Small Camo Net"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Oarai Girls' Academy",
+      "short_name": "Oarai",
+      "country": "Japan",
+      "camo": [
+        "Earth Green",
+        "Panzer Gelb",
+        "Zit Military Drab",
+        "Panzer Gray",
+        "RAL 8017",
+        "Zit Tormented Green",
+        "US Desert Sage",
+        "Earth Yellow",
+        "Luftwaffe Gray Violet",
+        "Bare Metal Silver",
+        "Gray",
+        "JIETAI 1",
+        "PLA DIGITAL",
+        "MERDC"
+      ],
+      "decals": [
+        "127276209009784"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Tiger P",
+          "quantity": 1,
+          "notes": "Document entry: Panzerkampfwagen, Bef.Wg. VI Versuchskonstruktion. 45.01 (P) Command Variant"
+        },
+        {
+          "name": "M6A2",
+          "quantity": 1,
+          "notes": "Document entry: Heavy Tank, M6"
+        },
+        {
+          "name": "Tiger II",
+          "quantity": 1,
+          "notes": "Document entry: Tiger II Ausf. \"B\""
+        },
+        {
+          "name": "M26 T99",
+          "quantity": 1,
+          "notes": "Document entry: 90mm Gun Full Tracked Heavy Tank, M26/T99 Pershing"
+        },
+        {
+          "name": "T26E4 Super Pershing",
+          "quantity": 1,
+          "notes": "Document entry: T26E4, Heavy Tank"
+        },
+        {
+          "name": "T-44-100",
+          "quantity": 1,
+          "notes": "Document entry: T-44-100"
+        },
+        {
+          "name": "Sturmpanzerwagen A7V",
+          "quantity": 1,
+          "notes": "Document entry: Sturmpanzerwagen A7V"
+        },
+        {
+          "name": "Sherman Firefly",
+          "quantity": 1,
+          "notes": "Document entry: Sherman, VC. Firefly"
+        },
+        {
+          "name": "Mark IV",
+          "quantity": 1,
+          "notes": "Document entry: Mark IV"
+        },
+        {
+          "name": "M3 Lee",
+          "quantity": 1,
+          "notes": "Document entry: Medium Tank, M3"
+        },
+        {
+          "name": "Pz IV Ausf. 1946",
+          "quantity": 1,
+          "notes": "Document entry: Sd.Kfz. 161 1946. \"H\"",
+          "special_requirements": "1000 points for the Pfeilgeschoss 3/7,5 ammo"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "L3/35",
+          "quantity": 1,
+          "notes": "Document entry: Carro Veloce 35 Tankette"
+        },
+        {
+          "name": "Puma",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "RBT-5",
+          "quantity": 1,
+          "notes": "Document entry: Rocket-Bystrohodnyi-5 Light tank"
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 1,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 1,
+          "notes": "Document entry: StuG III, Ausf. \"G\""
+        },
+        {
+          "name": "JgPz 38t",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanzer 38t. (Sd.Kfz. 138/2.)"
+        },
+        {
+          "name": "M36 Jackson",
+          "quantity": 1,
+          "notes": "Document entry: 90mm GMC M36B2"
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Engineering Tool",
+        "Small Camo Net",
+        "Camo Net",
+        "Binoculars"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Saint Gloriana Girls' College",
+      "short_name": "St. Gloriana",
+      "country": "United Kingdom",
+      "camo": [
+        "Ocean Gray 2",
+        "RAL 7028",
+        "UKF Olive Drab"
+      ],
+      "decals": [
+        "74624517956970"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Churchill VII",
+          "quantity": 1,
+          "notes": "Document entry: Armoured Vehicle Royal Engineers, (165mm) Tank, Infantry, Mark IV Churchill"
+        },
+        {
+          "name": "Sherman Firefly",
+          "quantity": 2,
+          "notes": "Document entry: Sherman VC Firefly"
+        },
+        {
+          "name": "Comet Mk.1",
+          "quantity": 4,
+          "notes": "Document entry: Tank, Cruiser, Mark I Comet. (A34)"
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 8,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18"
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Binoculars",
+        "Camo Net",
+        "Small Camo Net"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Jatkosota/Continuation/Keizoku High School",
+      "short_name": "Jatkosota",
+      "country": "Finland",
+      "camo": [
+        "Finnish Three-Tone",
+        "USSR Olive Drab",
+        "Finnish Pentagons",
+        "US Helo Drab",
+        "Russian Tan",
+        "CDF Butan Desert",
+        "Dreifarbiegs Tarnung",
+        "Swedish Woodlands",
+        "Gray",
+        "Zit Murky Flint",
+        "Snow Pixel",
+        "Olive Drab",
+        "Dark Green",
+        "PLA Digital",
+        "US Army Olive Drab"
+      ],
+      "decals": [
+        "74624517956970"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Tiger II",
+          "quantity": 1,
+          "notes": "Document entry: Tiger II Ausf. \"B\". (Sd.Kfz. 182.)"
+        },
+        {
+          "name": "Churchill VII",
+          "quantity": 1,
+          "notes": "Document entry: Armoured Vehicle Royal Engineers, (165mm) Tank, Infantry, Mark IV Churchill"
+        },
+        {
+          "name": "T-44-100",
+          "quantity": 1,
+          "notes": "Document entry: T-44-100"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 1,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171)"
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 2,
+          "notes": "Document entry: T-34 (85)"
+        },
+        {
+          "name": "T-34",
+          "quantity": 3,
+          "notes": "Document entry: T-34 (76)"
+        },
+        {
+          "name": "L3/35",
+          "quantity": 1,
+          "notes": "Document entry: Carro Veloce CV.35, Tankette"
+        },
+        {
+          "name": "Puma",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "BT-5",
+          "quantity": 1,
+          "notes": "Document entry: Bystrohodnyi-5 Light tank"
+        },
+        {
+          "name": "Elefant",
+          "quantity": 1,
+          "notes": "Document entry: Elefant (Sd.Kfz.184)"
+        },
+        {
+          "name": "Jagdpanther",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanther (Sd.Kfz. 173.)"
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 3,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18"
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Engineering Tool",
+        "Camo Net",
+        "Small Camo Net",
+        "Binoculars"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Pravda High School",
+      "short_name": "Pravda",
+      "country": "Soviet Union",
+      "camo": [
+        "ZIT Military Drab",
+        "ZIT Winter Snow"
+      ],
+      "decals": [
+        "126885939665837"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "IS-2 1944",
+          "quantity": 1,
+          "notes": "Document entry: IS-2."
+        },
+        {
+          "name": "T-44-100",
+          "quantity": 1,
+          "notes": "Document entry: T-44 (100)"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 1,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "T-34-57",
+          "quantity": 3,
+          "notes": "Document entry: T-34 (57)"
+        },
+        {
+          "name": "M4A2 Sherman",
+          "quantity": 4,
+          "notes": "Document entry: M4A2 75 W VVSS Sherman."
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 7,
+          "notes": "Document entry: T-34 (85)"
+        },
+        {
+          "name": "T-34",
+          "quantity": 9,
+          "notes": "Document entry: T-34 (76)"
+        },
+        {
+          "name": "Puma",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "BT-5",
+          "quantity": 1,
+          "notes": "Document entry: Bystrohodnyi-5 Light tank"
+        },
+        {
+          "name": "T-60",
+          "quantity": 4,
+          "notes": "Document entry: T-60, Scout Tank."
+        },
+        {
+          "name": "SU-85M",
+          "quantity": 1,
+          "notes": "Document entry: SU-85M."
+        },
+        {
+          "name": "ISU-152",
+          "quantity": 2,
+          "notes": "Document entry: ISU-152 \"Beast Killer\""
+        },
+        {
+          "name": "SU-122P",
+          "quantity": 4,
+          "notes": "Document entry: SU-122P."
+        },
+        {
+          "name": "RSZO-1",
+          "quantity": 1,
+          "notes": "Document entry: RSZO-1"
+        }
+      ],
+      "equipment": [
+        "Repair Torch"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Saunders University High School",
+      "short_name": "Saunders",
+      "country": "United States",
+      "camo": [
+        "US Helo Drab",
+        "UKF Olive Drab",
+        "ZIT Desert Cashmere",
+        "Bundeswehr Gray Green",
+        "MERDC",
+        "NATO Tricolor 2",
+        "US Desert Storm",
+        "Finnish Pentagons",
+        "Swedish Winter Camo",
+        "Allied European"
+      ],
+      "decals": [
+        "14135117423"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "IS-6",
+          "quantity": 1,
+          "notes": "Document entry: IS-6"
+        },
+        {
+          "name": "M4A3E2 (76) Jumbo",
+          "quantity": 2,
+          "notes": "Document entry: M4A3E2 76 W VVSS Jumbo Sherman."
+        },
+        {
+          "name": "T29",
+          "quantity": 4,
+          "notes": "Document entry: Heavy Tank, T29."
+        },
+        {
+          "name": "T26E4 Super Pershing",
+          "quantity": 7,
+          "notes": "Document entry: Heavy Tank, T26E4."
+        },
+        {
+          "name": "M26 T99",
+          "quantity": 7,
+          "notes": "Document entry: 90mm Gun Full Tracked Heavy Tank, M26-T99."
+        },
+        {
+          "name": "Centurion Mk.10",
+          "quantity": 1,
+          "notes": "Document entry: Centurion Mark.10."
+        },
+        {
+          "name": "Sherman Firefly",
+          "quantity": 1,
+          "notes": "Document entry: Sherman VC Firefly."
+        },
+        {
+          "name": "M4A1 (76) Sherman",
+          "quantity": 1,
+          "notes": "Document entry: M4A1 76 W VVSS Sherman."
+        },
+        {
+          "name": "M4A1 Sherman",
+          "quantity": 10,
+          "notes": "Document entry: M4A1 75 VVSS Sherman"
+        },
+        {
+          "name": "M4A2 Sherman",
+          "quantity": 12,
+          "notes": "Document entry: M4A2 75 VVSS Sherman."
+        },
+        {
+          "name": "M4A2E8 Sherman",
+          "quantity": 14,
+          "notes": "Document entry: M4A3 76 W HVSS (M4A3E8) Sherman."
+        },
+        {
+          "name": "M8 Greyhound",
+          "quantity": 7,
+          "notes": "Document entry: M8 Light Armored Car (LAC)."
+        },
+        {
+          "name": "RBT-5",
+          "quantity": 1,
+          "notes": "Document entry: Rocket-Bystrohodnyi-5 Light tank."
+        },
+        {
+          "name": "M36 Jackson",
+          "quantity": 1,
+          "notes": "Document entry: 90mm GMC M36."
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 4,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18."
+        },
+        {
+          "name": "M18 Super Hellcat",
+          "quantity": 5,
+          "notes": "Document entry: 90mm GMC M18 Super Hellcat."
+        },
+        {
+          "name": "M4A3 (105) Zippo",
+          "quantity": 1,
+          "notes": "Document entry: M4A3 (105) W VVSS Sherman \"Zippo\""
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Engineering Tool",
+        "Binoculars"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Kuromorimine Girls' Academy",
+      "short_name": "Kuromorimine",
+      "country": "Germany",
+      "camo": [
+        "Panzer Gelb",
+        "NATO Tricolour 2",
+        "RAL 8017",
+        "Normandie Tarnung 2",
+        "Hinterhalt Tarnung 2",
+        "Panzer Gray",
+        "Earth Yellow",
+        "RAL 1039",
+        "RAL 7028",
+        "Green Dunkelkrau"
+      ],
+      "decals": [
+        "16191000275"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Maus",
+          "quantity": 1,
+          "notes": "Document entry: Panzer VIII \"Maus\" (Sd.Kfz. 205.)"
+        },
+        {
+          "name": "Tiger I",
+          "quantity": 2,
+          "notes": "Document entry: Tiger I Ausf. \"H1\". (Sd.Kfz. 181.)"
+        },
+        {
+          "name": "Tiger II",
+          "quantity": 4,
+          "notes": "Document entry: Tiger II Ausf. \"B\". (Sd.Kfz. 182.)"
+        },
+        {
+          "name": "Panther F",
+          "quantity": 1,
+          "notes": "Document entry: Panther V \"F\" II. (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "Pz.III M",
+          "quantity": 3,
+          "notes": "Document entry: Panzer III \"M\". (Sd.Kfz. 141.)"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 6,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "VK 16.02",
+          "quantity": 1,
+          "notes": "Document entry: Versuchskonstruktion. 16.02. Light Tank."
+        },
+        {
+          "name": "T-60",
+          "quantity": 2,
+          "notes": "Document entry: T-60, Scout Tank."
+        },
+        {
+          "name": "PaKWagen",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/4 PaKWagen"
+        },
+        {
+          "name": "Elefant",
+          "quantity": 1,
+          "notes": "Document entry: Elefant (Sd.Kfz 184)"
+        },
+        {
+          "name": "Jagdpanther",
+          "quantity": 2,
+          "notes": "Document entry: Jagdpanther (Sd.Kfz 173"
+        },
+        {
+          "name": "Jagdtiger",
+          "quantity": 2,
+          "notes": "Document entry: Jagdtiger (Sd.Kfz. 186)"
+        },
+        {
+          "name": "Sd Kfz 251",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 251."
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Engineering Tool",
+        "Small Camo Net",
+        "Camo Net",
+        "Binoculars"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "BC Freedom High School",
+      "short_name": "BC Freedom",
+      "country": "France",
+      "camo": [
+        "Luftwaffe Gray Violet",
+        "Blue Dunkelgrau",
+        "FRENCH CARC",
+        "FRENCH1",
+        "NATO TRICOLOR",
+        "NATO TRICOLOR 2",
+        "SOC Blackout Camouflage",
+        "Early Bicolour",
+        "Hot Pink"
+      ],
+      "decals": [
+        "77224259844277"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "M4A3E2 (76) Jumbo",
+          "quantity": 1,
+          "notes": "Document entry: M4A3E2, 76 W VVSS Jumbo Sherman."
+        },
+        {
+          "name": "Tiger I",
+          "quantity": 1,
+          "notes": "Document entry: Tiger I VI \"H1\" (Sd.Kfz. 181.)"
+        },
+        {
+          "name": "M4A2 Sherman",
+          "quantity": 1,
+          "notes": "Document entry: M4A2 75 VVSS Sherman."
+        },
+        {
+          "name": "Cromwell V",
+          "quantity": 1,
+          "notes": "Document entry: Tank, Cruiser, Mk VIII, Cromwell. (A27M)"
+        },
+        {
+          "name": "Sherman Firefly",
+          "quantity": 2,
+          "notes": "Document entry: Sherman VC, 17pndr Firefly.",
+          "special_requirements": "250 points for add-on armour"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 2,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "M26 Pershing",
+          "quantity": 5,
+          "notes": "Document entry: 90mm Gun Full Tracked Heavy Tank, M26."
+        },
+        {
+          "name": "Panther G",
+          "quantity": 5,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "Puma",
+          "quantity": 4,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "L3/35",
+          "quantity": 5,
+          "notes": "Document entry: Carro Veloce CV-35, Tankettes"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 1,
+          "notes": "Document entry: StuG III, Ausf. \"G\"."
+        },
+        {
+          "name": "Jagdpanther",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanther (Sd.Kfz. 173)"
+        },
+        {
+          "name": "M36 Jackson",
+          "quantity": 2,
+          "notes": "Document entry: 90mm GMC M36B2."
+        },
+        {
+          "name": "T34 Calliope",
+          "quantity": 2,
+          "notes": "Document entry: 4.5-Inch Multiple Rocket Launcher T34 Calliope."
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Engineering Tool",
+        "Small Camo Net",
+        "Camo Net",
+        "Binoculars"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Chi-Ha-Tan Academy",
+      "short_name": "Chi-Ha-Tan",
+      "country": "Japan",
+      "camo": [
+        "Jietai",
+        "IJA Colours",
+        "IJN Light Gray",
+        "ZIT Military Drab"
+      ],
+      "decals": [
+        "15947061545"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "KV-5",
+          "quantity": 1,
+          "notes": "Document entry: KV-5."
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 1,
+          "notes": "Document entry: T-34 (85)"
+        },
+        {
+          "name": "Tiger I",
+          "quantity": 1,
+          "notes": "Document entry: Tiger I Ausf. \"H1\". (Sd.Kfz. 181.)"
+        },
+        {
+          "name": "L3/35",
+          "quantity": 1,
+          "notes": "Document entry: Carro Veloce CV.35, Tankette."
+        },
+        {
+          "name": "LVT-6 Gator",
+          "quantity": 1,
+          "notes": "Document entry: LVT-6 Gator."
+        },
+        {
+          "name": "M4A2E8 Sherman",
+          "quantity": 1,
+          "notes": "Document entry: M4A3 76 W HVSS (M4A3E8) Sherman."
+        },
+        {
+          "name": "T-34-57",
+          "quantity": 2,
+          "notes": "Document entry: T-34 (57)"
+        }
+      ],
+      "equipment": [
+        "Binoculars",
+        "Repair Torch",
+        "Engineering Tool"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "All-Stars University Student Selection Team",
+      "short_name": "All-Stars",
+      "country": null,
+      "camo": [
+        "US Helo Drab",
+        "Russian Green",
+        "Zit Military Drab",
+        "RAL 8017"
+      ],
+      "decals": [],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "M26 Pershing",
+          "quantity": 27,
+          "notes": "Document entry: 90mm Gun Full Tracked Heavy Tank, M26 Pershing"
+        },
+        {
+          "name": "Centurion Mk.10",
+          "quantity": 1,
+          "notes": "Document entry: Centurion Mark. 10."
+        },
+        {
+          "name": "M4A2 Sherman",
+          "quantity": 4,
+          "notes": "Document entry: M4A2 75 VVSS Sherman. \"Training Tank\"",
+          "special_requirements": "Training tank"
+        },
+        {
+          "name": "Panther D",
+          "quantity": 6,
+          "notes": "Document entry: Panther V \"D\" (Sd.Kfz. 171.) \"Training Tank\"",
+          "special_requirements": "Training tank"
+        },
+        {
+          "name": "M24 Chaffee",
+          "quantity": 3,
+          "notes": "Document entry: Light Tank, M24."
+        },
+        {
+          "name": "Jagdpanther",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanther (Sd.Kfz.173.) \"Training Tank\"",
+          "special_requirements": "Training tank"
+        },
+        {
+          "name": "Jagdtiger",
+          "quantity": 1,
+          "notes": "Document entry: Jagdtiger (Sd.Kfz.186) (T95-replacement.)",
+          "special_requirements": "T95 replacement"
+        },
+        {
+          "name": "Karl-Gerät",
+          "quantity": 1,
+          "notes": "Document entry: Karl-Gerät (040/041)"
+        }
+      ],
+      "equipment": [
+        "Sandbags",
+        "Engineering Tool",
+        "Camo Net",
+        "Small Camo Net",
+        "Binoculars",
+        "Repair Torch"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Waffle Academy",
+      "short_name": "Waffle",
+      "country": null,
+      "camo": [
+        "Panzer Gray",
+        "Earth Brown"
+      ],
+      "decals": [
+        "134474220890135"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "M4A3E2 (76) Jumbo",
+          "quantity": 1,
+          "notes": "Document entry: M4A3E2, 76 W VVSS Jumbo Sherman."
+        },
+        {
+          "name": "Comet Mk.1",
+          "quantity": 1,
+          "notes": "Document entry: Tank, Cruiser, Comet I. (A34)"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 1,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 1,
+          "notes": "Document entry: T-34 (85)"
+        },
+        {
+          "name": "Mark VI",
+          "quantity": 2,
+          "notes": "Document entry: Mark VI."
+        },
+        {
+          "name": "T-60",
+          "quantity": 2,
+          "notes": "Document entry: T-60, Scout tank."
+        },
+        {
+          "name": "L3/35",
+          "quantity": 10,
+          "notes": "Document entry: Carro Veloce CV-35, Tankette."
+        },
+        {
+          "name": "Puma",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 1,
+          "notes": "Document entry: StuG III \"G\" (Sd.Kfz. 142.)"
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 2,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18."
+        },
+        {
+          "name": "M4A3 (105)",
+          "quantity": 2,
+          "notes": "Document entry: M4A3 (105) VVSS Sherman."
+        }
+      ],
+      "equipment": [],
+      "notes": ""
+    },
+    {
+      "name": "Count High School",
+      "short_name": "Count",
+      "country": null,
+      "camo": [
+        "Panzer Gray",
+        "UKF Olive Drab"
+      ],
+      "decals": [],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "Pz.III M",
+          "quantity": 1,
+          "notes": "Document entry: Panzer III \"M\" (Sd.Kfz. 141.)"
+        },
+        {
+          "name": "T-34",
+          "quantity": 1,
+          "notes": "Document entry: T-34 (76)"
+        },
+        {
+          "name": "BT-5",
+          "quantity": 3,
+          "notes": "Document entry: Bystrohodnyi-5 Light tank."
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 1,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18."
+        },
+        {
+          "name": "JgPz 38t",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanzer 38t. (Sd.Kfz. 138/2.)"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 1,
+          "notes": "Document entry: StuG III \"G\" (Sd.Kfz. 142.)"
+        },
+        {
+          "name": "Comet Mk.1",
+          "quantity": 1,
+          "notes": "Document entry: comet mk.1"
+        },
+        {
+          "name": "VK 16.02",
+          "quantity": 1,
+          "notes": "Document entry: Versuchskonstruktion. 16.02 Leopard."
+        },
+        {
+          "name": "M10 Wolverine",
+          "quantity": 1,
+          "notes": "Document entry: 3-inch GMC M10 (Wolverine)"
+        }
+      ],
+      "equipment": [],
+      "notes": ""
+    },
+    {
+      "name": "Anzio High School",
+      "short_name": "Anzio",
+      "country": "Italy",
+      "camo": [
+        "Italian Tri-colour",
+        "RAL 7028",
+        "RAF Dark Green 2"
+      ],
+      "decals": [
+        "132677745537002",
+        "113189759183644"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Tiger II",
+          "quantity": 1,
+          "notes": "Document entry: Tiger II VI \"B\" (Sd.Kfz. 182.)"
+        },
+        {
+          "name": "Cromwell V",
+          "quantity": 1,
+          "notes": "Document entry: Tank, Cruiser, Mk VIII, Cromwell (A27M)"
+        },
+        {
+          "name": "Comet Mk.1",
+          "quantity": 2,
+          "notes": "Document entry: Tank, Cruiser, Comet I. (A34) + Tank, Cruiser, Mark I Comet. (A34)"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 2,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "T-60",
+          "quantity": 1,
+          "notes": "Document entry: T-60, Scout Tank."
+        },
+        {
+          "name": "M36 Jackson",
+          "quantity": 1,
+          "notes": "Document entry: 90mm GMC Jackson."
+        },
+        {
+          "name": "VK 16.02",
+          "quantity": 1,
+          "notes": "Document entry: Versuchskonstruktion. 16.02. Light Tank."
+        },
+        {
+          "name": "M8 Greyhound",
+          "quantity": 4,
+          "notes": "Document entry: M8 Light Armored Car (LAC)."
+        },
+        {
+          "name": "L3/35",
+          "quantity": 14,
+          "notes": "Document entry: Carro Veloce CV-35, Tankette."
+        },
+        {
+          "name": "M3 GMC",
+          "quantity": 1,
+          "notes": "Document entry: M3 75mm"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 3,
+          "notes": "Document entry: StuG III \"G\" (Sd.Kfz. 142.)"
+        },
+        {
+          "name": "Supply Truck",
+          "quantity": 1,
+          "notes": "Document entry: M939 truckie"
+        },
+        {
+          "name": "Willys MB",
+          "quantity": 1,
+          "notes": "Document entry: Willy jep"
+        }
+      ],
+      "equipment": [],
+      "notes": ""
+    },
+    {
+      "name": "Bonple High School",
+      "short_name": "Bonple",
+      "country": null,
+      "camo": [
+        "UKF Olive Drab",
+        "NATO Tricolour 2",
+        "ZIT Winter Snow",
+        "Russian Green",
+        "Russian Tan"
+      ],
+      "decals": [
+        "77048216655515"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "IS-3",
+          "quantity": 1,
+          "notes": "Document entry: IS-3"
+        },
+        {
+          "name": "Tiger II",
+          "quantity": 1,
+          "notes": "Document entry: Tiger II Ausf. \"B\". (Sd.Kfz. 182.)"
+        },
+        {
+          "name": "IS-1",
+          "quantity": 1,
+          "notes": "Document entry: IS-1 (100MM)"
+        },
+        {
+          "name": "IS-2 1944",
+          "quantity": 2,
+          "notes": "Document entry: IS-2"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "M26 T99",
+          "quantity": 1,
+          "notes": "Document entry: 90mm Gun Full Track Heavy Tank, M26/T99"
+        },
+        {
+          "name": "Sherman Firefly",
+          "quantity": 1,
+          "notes": "Document entry: Sherman VC 17pndr Firefly.",
+          "special_requirements": "250 points for add-on armour"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 3,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 4,
+          "notes": "Document entry: T-34 (85)."
+        },
+        {
+          "name": "T-44-100",
+          "quantity": 4,
+          "notes": "Document entry: T-44 (100)"
+        },
+        {
+          "name": "M18 Hellcat",
+          "quantity": 1,
+          "notes": "Document entry: 76mm Gun Motor Carriage M18."
+        },
+        {
+          "name": "Puma",
+          "quantity": 1,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "M36 Jackson",
+          "quantity": 1,
+          "notes": "Document entry: 90mm GMC M36."
+        }
+      ],
+      "equipment": [
+        "Repair Torch",
+        "Engineering Tool",
+        "Small Camo Net",
+        "Camo Net",
+        "Binoculars"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Viggen High School",
+      "short_name": "Viggen",
+      "country": null,
+      "camo": [
+        "US Helo Drab",
+        "Swedish Tri-Colour"
+      ],
+      "decals": [
+        "122812641831559"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Tiger II",
+          "quantity": 1,
+          "notes": "Document entry: Tiger II Ausf. \"B\". (Sd.Kfz. 182.)"
+        },
+        {
+          "name": "IS-2 1944",
+          "quantity": 1,
+          "notes": "Document entry: IS-2"
+        },
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 1,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "M4A2E8 Sherman",
+          "quantity": 4,
+          "notes": "Document entry: M4A3 76 W HVSS (M4A3E8) Sherman."
+        },
+        {
+          "name": "Puma",
+          "quantity": 2,
+          "notes": "Document entry: Sonderkraftfahrzeug 234/2 Puma"
+        },
+        {
+          "name": "Elefant",
+          "quantity": 1,
+          "notes": "Document entry: Elefant (Sd.Kfz.184)"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 2,
+          "notes": "Document entry: StuG III \"G\" (Sd.Kfz. 142.)"
+        }
+      ],
+      "equipment": [
+        "Engineering Tool"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Yogurt High School",
+      "short_name": "Yogurt",
+      "country": null,
+      "camo": [
+        "n/a"
+      ],
+      "decals": [
+        "99929658527634"
+      ],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Pz IV H",
+          "quantity": 1,
+          "notes": "Document entry: Panzer IV \"H\" (Sd.Kfz. 161.)"
+        },
+        {
+          "name": "Pz.III M",
+          "quantity": 1,
+          "notes": "Document entry: Panzer III \"M\" (Sd.Kfz. 141.)"
+        },
+        {
+          "name": "T-44-100",
+          "quantity": 1,
+          "notes": "Document entry: T-44-100"
+        },
+        {
+          "name": "Panther G",
+          "quantity": 2,
+          "notes": "Document entry: Panther V \"G\" (Sd.Kfz. 171.)"
+        },
+        {
+          "name": "M4A2 Sherman",
+          "quantity": 4,
+          "notes": "Document entry: M4A2 75 VVSS Sherman."
+        },
+        {
+          "name": "L3/35",
+          "quantity": 2,
+          "notes": "Document entry: Carro Veloce CV.35, Tankette."
+        },
+        {
+          "name": "M8 Greyhound",
+          "quantity": 4,
+          "notes": "Document entry: M8 Light Armored Car (LAC)."
+        },
+        {
+          "name": "Jagdpanther",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanther (Sd.Kfz.173.)"
+        },
+        {
+          "name": "Stug III G",
+          "quantity": 1,
+          "notes": "Document entry: StuG III \"G\" (Sd.Kfz. 142.)"
+        },
+        {
+          "name": "JgPz 38t",
+          "quantity": 2,
+          "notes": "Document entry: Jagdpanzer 38t. (Sd.Kfz. 138/2.)"
+        }
+      ],
+      "equipment": [
+        "Camo Net",
+        "Small Camo Net"
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Bellwall Academy",
+      "short_name": "Bellwall",
+      "country": null,
+      "camo": [
+        "Panzer Gray",
+        "Panzer Gelb"
+      ],
+      "decals": [],
+      "special_requirements": [],
+      "tanks": [
+        {
+          "name": "Tiger I",
+          "quantity": 1,
+          "notes": "Document entry: Tiger I VI \"HI\" (Sd.Kfz. 181.)"
+        },
+        {
+          "name": "T-44-100",
+          "quantity": 1,
+          "notes": "Document entry: T-44-100"
+        },
+        {
+          "name": "T-34-85",
+          "quantity": 3,
+          "notes": "Document entry: T-34 (85)"
+        },
+        {
+          "name": "T-60",
+          "quantity": 4,
+          "notes": "Document entry: T-60, Scout tank."
+        },
+        {
+          "name": "Jagdpanther",
+          "quantity": 1,
+          "notes": "Document entry: Jagdpanther (Sd.Kfz.173.)"
+        },
+        {
+          "name": "Elefant",
+          "quantity": 1,
+          "notes": "Document entry: Elefant (Sd.Kfz.184)"
+        }
+      ],
+      "equipment": [
+        "Engineering Tool"
+      ],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "_comment": "MTC equipment (NameIDs copied from the MTC loadout). Every tool lives in Crewman/PassiveTools and RemoveVehicle in Engineer/Primary. Entries without \"verified\": true are not exported to MTC until an admin confirms the NameID.",
+  "equipment": [
+    { "name": "RemoveVehicle", "name_id": "RemoveVehicle", "class_name": "Engineer", "slot": "Primary", "tier": 1, "verified": true, "aliases": ["Remove Vehicle"] },
+    { "name": "Repair Torch", "name_id": "Repair Torch", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Repair Torches", "Propane Gas Blowtorch"] },
+    { "name": "SprayCan", "name_id": "SprayCan", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Spray Can"] },
+    { "name": "Binoculars", "name_id": "Binoculars", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Binos"] },
+    { "name": "Fire Extinguisher", "name_id": "Fire Extinguisher", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true },
+    { "name": "AmmoCrate", "name_id": "AmmoCrate", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Ammo Crate"] },
+    { "name": "Jerrycan", "name_id": "Jerrycan", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Jerry Can"] },
+    { "name": "Camo Net", "name_id": "Camo Net", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Camo net L", "Large camo nets", "Large Camo Net"] },
+    { "name": "Small Camo Net", "name_id": "Small Camo Net", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Camo net S", "Small camo nets"] },
+    { "name": "Engineering Tool", "name_id": "Engineering Tool", "class_name": "Crewman", "slot": "PassiveTools", "tier": 1, "verified": true, "aliases": ["Engineering Tools"] }
+  ]
+}

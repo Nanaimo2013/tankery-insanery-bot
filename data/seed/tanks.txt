@@ -1,0 +1,107 @@
+# Tankery Insanery - MTC Match Manager - MTC Vehicle Catalogue
+# Copyright © Nan's Studio's. Vehicle names belong to their respective owners.
+#
+# Format:  display_name | name_id | nation | vehicle_type | era | year | aliases (;-separated) | tier
+#
+# name_id and tier come straight from the MTC WWII loadout (data/seed/mtc-ww2-loadout.json).
+# Aliases are the names used in the Japan Senshadou League loadout document so that
+# school data and searches resolve to the right MTC vehicle.
+# A blank name_id means the vehicle has NO MTC equivalent: it stays in the school's
+# inventory for reference but is flagged 'needs review' and is never put into a match JSON.
+
+T-34|T-34|Hawk Republic|Medium Tank|WWII|1940|T-34 (76)|1
+M3 Half-track|M3 half-track|Hawk Republic / Eagle Federation|Half-track|WWII|1941||1
+OT-34-85|OT-34-85|Hawk Republic|Flamethrower Tank|WWII|1944||3
+KV-1E|KV-1E|Hawk Republic|Heavy Tank|WWII|1941||2
+T-34-57|T-34-57|Hawk Republic|Medium Tank|WWII|1941|T-34 (57)|2
+IS-1|IS-1|Hawk Republic|Heavy Tank|WWII|1943||3
+Object 704|Object 704|Hawk Republic|Tank Destroyer|WWII|1945||5
+T-44|T-44|Hawk Republic|Medium Tank|WWII|1944||4
+RBT-5|RBT-5|Hawk Republic|Rocket Tank|WWII|1935|Rocket-Bystrohodnyi-5|3
+Willys MB|Willys MB|Hawk Republic / Eagle Federation|Utility Vehicle|WWII|1941|Willys Jeep|1
+BT-5|BT-5|Hawk Republic|Light Tank|WWII|1933|Bystrohodnyi-5|1
+KV-2|KV-2|Hawk Republic|Heavy Tank|WWII|1940||1
+T-60|T-60|Hawk Republic|Light Tank|WWII|1941||1
+SU-100|SU-100|Hawk Republic|Tank Destroyer|WWII|1944||4
+ISU-152BM|ISU-152BM|Hawk Republic|Self-Propelled Gun|WWII|1944||5
+KV-220|KV-220|Hawk Republic|Heavy Tank|WWII|1941|KV-220/T-220;Object 220|3
+T-34-85|T-34-85|Hawk Republic|Medium Tank|WWII|1944|T-34 (85)|3
+RSZO-1|RSZO-1|Hawk Republic|Rocket Artillery|WWII|1941||3
+SU-85M|SU-85M|Hawk Republic|Tank Destroyer|WWII|1944||2
+ISU-152|ISU-152|Hawk Republic|Self-Propelled Gun|WWII|1944|ISU-152 Beast Killer|3
+KV-5|KV-5|Hawk Republic|Super-heavy Tank|WWII|1941||6
+IS-6|IS-6|Hawk Republic|Heavy Tank|WWII|1944||6
+IS-2 1944|IS-2 1944|Hawk Republic|Heavy Tank|WWII|1944|IS-2|4
+SU-122P|SU-122P|Hawk Republic|Self-Propelled Gun|WWII|1944||2
+KV-2 (ZIS-6)|KV-2 (ZIS-6)|Hawk Republic|Heavy Tank|WWII|1941||2
+T-V|T-V|Hawk Republic|Medium Tank|WWII|1944|T-V Panther|4
+T-34E|T-34E|Hawk Republic|Medium Tank|WWII|1941|T-34E (76)|1
+T-44-100|T-44-100|Hawk Republic|Medium Tank|WWII|1945|T-44 (100)|5
+IS-3|IS-3|Hawk Republic|Heavy Tank|WWII|1945||6
+SU-57|SU-57|Hawk Republic|Self-Propelled Gun|WWII|1943||2
+M26 T99|M26 T99|Eagle Federation|Heavy Tank|WWII|1945|M26/T99|4
+M4A1 (76) Sherman|M4A1 (76) Sherman|Eagle Federation|Medium Tank|WWII|1944|M4A1 76 W VVSS Sherman|2
+M10 Wolverine|M10 Wolverine|Eagle Federation|Tank Destroyer|WWII|1942||1
+Comet Mk.1|Comet Mk.1|Eagle Federation|Cruiser Tank|WWII|1944|Comet;Comet I (A34)|3
+M6A2|M6A2|Eagle Federation|Heavy Tank|WWII|1942|M6;Heavy Tank M6|2
+LVT-6 Gator|LVT-6 Gator|Eagle Federation|Amphibious Tank|WWII|1944||1
+A.33/1|A.33/1|Eagle Federation|Infantry Tank|WWII|1941||2
+M4A3E2 (75) Jumbo|M4A3E2 (75) Jumbo|Eagle Federation|Heavy Tank|WWII|1944||2
+Churchill VII|Churchill VII|Eagle Federation|Infantry Tank|WWII|1944|Churchill IV;Churchill AVRE|2
+Cromwell V|Cromwell V|Eagle Federation|Cruiser Tank|WWII|1943|Cromwell;Cromwell (A27M)|1
+M4A1 Sherman|M4A1 Sherman|Eagle Federation|Medium Tank|WWII|1942|M4A1 75 VVSS Sherman|1
+T26E4 Super Pershing|T26E4 Super Pershing|Eagle Federation|Heavy Tank|WWII|1945|T26E4|5
+M4A2E8 Sherman|M4A2E8 Sherman|Eagle Federation|Medium Tank|WWII|1944|M4A3E8 Sherman;M4A3 76 W HVSS (M4A3E8) Sherman|2
+M18 Hellcat|M18 Hellcat|Eagle Federation|Tank Destroyer|WWII|1943|76mm GMC M18|2
+T29|T29|Eagle Federation|Heavy Tank|WWII|1945||6
+M26 Pershing|M26 Pershing|Eagle Federation|Heavy Tank|WWII|1945|M26|4
+M18 Super Hellcat|M18 Super Hellcat|Eagle Federation|Tank Destroyer|WWII|1945|90mm GMC M18 Super Hellcat|4
+M4A3 (105)|M4A3 (105)|Eagle Federation|Medium Tank|WWII|1944|M4A3 (105) VVSS Sherman|1
+M3 GMC|M3 GMC|Eagle Federation|Self-Propelled Gun|WWII|1941|M3 75mm|1
+T34 Calliope|T34 Calliope|Eagle Federation|Rocket Artillery|WWII|1943|4.5-Inch Multiple Rocket Launcher T34 Calliope|1
+M3 Lee|M3 Lee|Eagle Federation|Medium Tank|WWII|1941|Medium Tank M3|1
+Sherman Firefly|Sherman Firefly|Eagle Federation|Medium Tank|WWII|1944|Sherman VC Firefly;Firefly|3
+M4A2 Sherman|M4A2 Sherman|Eagle Federation|Medium Tank|WWII|1942|M4A2 75 VVSS Sherman|1
+M8 Greyhound|M8 Greyhound|Eagle Federation|Armoured Car|WWII|1943|M8 LAC;M8 Light Armored Car|1
+M17 Whizbang|M17 Whizbang|Eagle Federation|Rocket Artillery|WWII|1944||3
+M4A3 (105) Zippo|M4A3 (105) Zippo|Eagle Federation|Flamethrower Tank|WWII|1944|M4A3 (105) W VVSS Sherman Zippo|2
+M7 Priest|M7 Priest|Eagle Federation|Self-Propelled Gun|WWII|1942||1
+M36 Jackson|M36 Jackson|Eagle Federation|Tank Destroyer|WWII|1944|90mm GMC Jackson;90mm GMC M36;M36B2;90mm GMC M36B2|3
+M4A3E2 (76) Jumbo|M4A3E2 (76) Jumbo|Eagle Federation|Heavy Tank|WWII|1944|M4A3E2 76 W VVSS Jumbo Sherman|3
+Puma|Puma|Schwalbenheim Kingdom|Armoured Car|WWII|1943|Sd.Kfz. 234/2 Puma|1
+PzWf. 15|PzWf. 15|Schwalbenheim Kingdom|Armoured Vehicle|WWII|1939||1
+Ersatz M10|Ersatz M10|Schwalbenheim Kingdom|Tank Destroyer|WWII|1944||4
+Jagdpanther|Jagdpanther|Schwalbenheim Kingdom|Tank Destroyer|WWII|1944||3
+Sturmtiger|Sturmtiger|Schwalbenheim Kingdom|Assault Gun|WWII|1944||4
+Tiger II|Tiger II|Schwalbenheim Kingdom|Heavy Tank|WWII|1944|Tiger II Ausf. B|5
+Jagdtiger|Jagdtiger|Schwalbenheim Kingdom|Tank Destroyer|WWII|1944||5
+Panther F|Panther F|Schwalbenheim Kingdom|Medium Tank|WWII|1945|Panther V F II|5
+Panther D|Panther D|Schwalbenheim Kingdom|Medium Tank|WWII|1943|Panther V D|3
+Stug III G|Stug III G|Schwalbenheim Kingdom|Assault Gun|WWII|1942|StuG III Ausf. G|1
+Maus|Maus|Schwalbenheim Kingdom|Super-heavy Tank|WWII|1944|Panzer VIII Maus|6
+Sd Kfz 251|Sd Kfz 251|Schwalbenheim Kingdom|Half-track|WWII|1939|Sd.Kfz. 251|1
+Tiger P|Tiger P|Schwalbenheim Kingdom|Heavy Tank|WWII|1942|Panzer Befehlswagen VI P;VK 45.01 (P)|4
+Tiger I|Tiger I|Schwalbenheim Kingdom|Heavy Tank|WWII|1942|Tiger I Ausf. H1|3
+Elefant|Elefant|Schwalbenheim Kingdom|Tank Destroyer|WWII|1943||4
+Pz IV Ausf. 1946|Pz IV Ausf. 1946|Schwalbenheim Kingdom|Medium Tank|WWII|1946|Sd.Kfz. 161 1946 H|3
+E-100|E-100|Schwalbenheim Kingdom|Super-heavy Tank|WWII|1945||6
+VK 16.02|VK 16.02|Schwalbenheim Kingdom|Light Tank|WWII|1942|Versuchskonstruktion 16.02;VK 16.02 Leopard;Leopard|1
+Hornisse|Hornisse|Schwalbenheim Kingdom|Tank Destroyer|WWII|1943||3
+BT-42|BT-42|Schwalbenheim Kingdom|Self-Propelled Gun|WWII|1943||1
+JgPz 38t|JgPz 38t|Schwalbenheim Kingdom|Tank Destroyer|WWII|1944|Jagdpanzer 38t;Hetzer|2
+PaKWagen|PaKWagen|Schwalbenheim Kingdom|Tank Destroyer|WWII|1944|Sd.Kfz. 234/4 PaKWagen|2
+Pz.III M|Pz.III M|Schwalbenheim Kingdom|Medium Tank|WWII|1942|Panzer III M|1
+Panther II|Panther II|Schwalbenheim Kingdom|Medium Tank|WWII|1945||6
+Pz IV H|Pz IV H|Schwalbenheim Kingdom|Medium Tank|WWII|1943|Panzer IV H|2
+L3/35|L3/35|Schwalbenheim Kingdom|Tankette|WWII|1933|CV.35;Carro Veloce CV-35|1
+Tiger II (10.5 cm Kw.K)|Tiger II (10.5 cm Kw.K)|Schwalbenheim Kingdom|Heavy Tank|WWII|1945||6
+Panther G|Panther G|Schwalbenheim Kingdom|Medium Tank|WWII|1944|Panther V G|4
+Supply Truck|Supply Truck|All factions|Supply Truck|WWII|1941|M939 Truck|1
+
+# ---- Vehicles from the school document with NO MTC equivalent (not exported to MTC) ----
+Sturmpanzerwagen A7V||Schwalbenheim Kingdom|Heavy Tank|WWI|1918|A7V|1
+Mark IV||Eagle Federation|Heavy Tank|WWI|1917||1
+Mark VI||Eagle Federation|Light Tank|WWII|1936||1
+M24 Chaffee||Eagle Federation|Light Tank|WWII|1944|Light Tank M24|1
+Centurion Mk.10||Eagle Federation|Medium Tank|WWII|1945|Centurion Mark 10;Centurion Mark.10|1
+Karl-Gerät||Schwalbenheim Kingdom|Self-Propelled Gun|WWII|1940|Karl-Gerät (040/041)|1

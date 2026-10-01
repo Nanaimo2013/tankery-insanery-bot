@@ -1,0 +1,17 @@
+# Tankery Insanery - MTC Match Manager - Copyright © Nan's Studio's. All rights reserved.
+services:
+  tankery-bot:
+    build: .
+    container_name: tankery-insanery-bot
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_PATH: /app/data/tankery.sqlite
+      BACKUP_DIR: /app/backups
+    volumes:
+      - tankery-data:/app/data
+      - tankery-backups:/app/backups
+
+volumes:
+  tankery-data:
+  tankery-backups:
